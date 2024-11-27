@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\bin\Debug\Uygulama 25.exe.config
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\bin\Debug\Uygulama 25.exe
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\bin\Debug\Uygulama 25.pdb
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\obj\Debug\Uygulama_25.Form1.resources
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\obj\Debug\Uygulama_25.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\obj\Debug\Uygulama 25.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\obj\Debug\Uygulama 25.exe
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\obj\Debug\Uygulama 25.pdb
+C:\Users\user\Desktop\10-M\Uygulama 25\Uygulama 25\obj\Debug\Uygulama 25.csprojResolveAssemblyReference.cache
